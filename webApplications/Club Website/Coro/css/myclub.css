@@ -1,0 +1,216 @@
+.stitched {
+   padding: 20px;
+   margin: 10px;
+   background: #C22326;
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #F37338;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #C22326, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   font-weight: normal;
+	text-align: center;
+     width: 800px;
+     margin: 0 auto;
+}
+
+.error {
+	color: red;
+	font-size: 80%;
+}
+
+
+.join {
+   padding: 20px;
+   margin: 10px;
+   background: #F37338;
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #C22326;
+   border-radius: 102px;
+   box-shadow: 0 0 0 4px #F37338, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   font-weight: normal;
+	text-align: center;
+     width: 600px;
+     margin: 0 auto;
+}
+.joinform {
+   padding: 20px;
+   margin: 10px;
+   background: #FDB632;
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #C22326;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #FDB632, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   --text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+	text-align: left;
+     width: 500px;
+     margin: 20 auto;
+	     -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	float: left;
+}
+.picturedisplay {
+   padding: 20px;
+   margin: 10px;
+   background: rgba(253, 182, 50,0.0);
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #C22326;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px rgba(253, 182, 50,0.0), 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   --text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+	text-align: left;
+     width: 500px;
+     margin: 20 auto;
+	     -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	float: left;
+}
+.weatherdisplay {
+   padding: 20px;
+   margin: 10px;
+   background: #FDB632;
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #C22326;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #FDB632, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   --text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+	text-align: left;
+     width: 500px;
+     margin: 20 auto;
+	     -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	float: left;
+}
+.button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+	font-family: 'Open Sans', serif;
+        font-size: 30px;
+		text-shadow: 4px 4px 4px #aa3030;
+}
+.button2{
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	color:#333;
+	background-color:#f37338;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border:none;
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	font-size:16px;
+	font-weight:700;
+	height:32px;
+	padding:4px 16px;
+	--text-shadow:#FE6 0 1px 0
+}
+.input 
+{ padding:4px; 
+font-size:15px; 
+border-width:4px; 
+border-radius:15px; 
+border-style:hidden; 
+background-color:#f37338; 
+box-shadow: 1px 1px 4px 0px rgba(42,42,42,.75); 
+color:#ffffff; 
+--text-shadow:2px 0px 0px rgba(42,42,42,.75); 
+border-color:#c976c9;  
+} 
+
+
+body {
+		font-family: 'Open Sans', serif;
+        font-size: 40px;
+		--text-shadow: 4px 4px 4px #aa3030;
+		background: repeat-x;
+		--background-image: url('../img/coro.jpg'), url('../img/road.jpg');
+		background-position:center;
+      background-color: #027878;
+        
+	  }
+.centeredImage
+    {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+    }
+.img {
+    -webkit-box-shadow: 3px 3px 3px #7C7C7C;
+    box-shadow: 3px 3px 3px #7C7C7C;
+    }
+	
+
+
+
+.h_paragraph {
+        --font-family: times, Times New Roman, times-roman, georgia, serif;
+		font-size: 20px;
+		line-height: 20px;
+		text-transform: uppercase;
+		color: #444;
+}
+
+.h_headline {
+        --font-family: times, Times New Roman, times-roman, georgia, serif;
+		font-size: 48px;
+	    line-height: 40px;
+	    letter-spacing: -1px;
+		color: #444;
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+        font-weight: 100;
+}
+
+.h_middle {
+		--font-family: times, Times New Roman, times-roman, georgia, serif;
+		font-size: 28px;
+		line-height: 40px;
+		letter-spacing: -1px;color: #444;
+}
+
+
+	.TFtable{
+		width:100%; 
+		border-collapse:collapse; 
+		color:black;
+	}
+	.TFtable td{ 
+		padding:7px; border:#4e95f4 1px solid;
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	.TFtable tr{
+		background: #b8d1f3;
+	}
+	/*  Define the background color for all the ODD background rows  */
+	.TFtable tr:nth-child(odd){ 
+		background: #b8d1f3;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	.TFtable tr:nth-child(even){
+		background: #dae5f4;
+	}
